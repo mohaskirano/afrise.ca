@@ -1,9 +1,9 @@
-*,body{
+/**,body{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   overflow-x: hidden;
-}
+}*/
 
 .slogan {
   width: 280px;
@@ -25,3 +25,5 @@
 .slogan {
   animation: scroll 8s linear infinite;
 }
+
+
